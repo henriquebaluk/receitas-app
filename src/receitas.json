@@ -1,0 +1,80 @@
+[
+    {
+      "id": 1,
+      "titulo": "Bolo de Chocolate",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de açúcar",
+        "1 xícara de leite",
+        "2 ovos",
+        "1/2 xícara de óleo",
+        "1 xícara de chocolate em pó",
+        "1 colher de fermento em pó"
+      ],
+      "modoPreparo": "Misture todos os ingredientes, coloque em uma forma untada e asse por 40 minutos."
+    },
+    {
+      "id": 2,
+      "titulo": "Panqueca",
+      "ingredientes": [
+        "1 xícara de farinha de trigo",
+        "1 ovo",
+        "1 xícara de leite",
+        "1 colher de óleo",
+        "Sal a gosto"
+      ],
+      "modoPreparo": "Misture todos os ingredientes, aqueça uma frigideira e faça as panquecas."
+    },
+    {
+      "id": 3,
+      "titulo": "Massa de Pizza",
+      "ingredientes": [
+        "2 xícaras de farinha de trigo",
+        "1 xícara de água morna",
+        "1 colher de fermento biológico seco",
+        "1 colher de açúcar",
+        "1 colher de azeite",
+        "Sal a gosto"
+      ],
+      "modoPreparo": "Misture todos os ingredientes, sove a massa por 10 minutos, deixe descansar por 1 hora, abra a massa e asse com os ingredientes de sua preferência."
+    },
+    {
+      "id": 4,
+      "titulo": "Salada Caesar",
+      "ingredientes": [
+        "1 alface americana",
+        "100g de croutons",
+        "50g de queijo parmesão ralado",
+        "Molho Caesar a gosto",
+        "1 peito de frango grelhado e fatiado"
+      ],
+      "modoPreparo": "Rasgue as folhas de alface, adicione os croutons, o queijo parmesão e o frango. Regue com molho Caesar e misture bem."
+    },
+    {
+      "id": 5,
+      "titulo": "Brigadeiro",
+      "ingredientes": [
+        "1 lata de leite condensado",
+        "2 colheres de chocolate em pó",
+        "1 colher de manteiga",
+        "Chocolate granulado para cobrir"
+      ],
+      "modoPreparo": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga. Cozinhe em fogo médio, mexendo sempre, até desprender do fundo da panela. Deixe esfriar, faça bolinhas e passe no chocolate granulado."
+    },
+    {
+      "id": 6,
+      "titulo": "Sopa de Legumes",
+      "ingredientes": [
+        "2 batatas",
+        "2 cenouras",
+        "1 chuchu",
+        "1 abobrinha",
+        "1 cebola",
+        "2 dentes de alho",
+        "Sal e pimenta a gosto",
+        "1 litro de caldo de legumes"
+      ],
+      "modoPreparo": "Pique os legumes em cubos, refogue a cebola e o alho, adicione os legumes, cubra com o caldo e cozinhe até os legumes ficarem macios. Tempere a gosto."
+    }
+  ]
+  
